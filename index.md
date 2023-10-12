@@ -1,4 +1,4 @@
-# UH-Uni-Verse
+UH-Uni-Verse
 
 Motivation: For this app I am trying to create a space where all UH students can connect. The main target would be new students who need help with deciding on classes, or learning things about life in Hawaii. I think that the University of Hawaii is one of the harder colleges to adapt to because it is very far for a lot of people and its disconnected from the mainland. I think this app would create a great place to help all these students.
 
