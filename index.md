@@ -4,13 +4,14 @@ Motivation: For this app I am trying to create a space where all UH students can
 
 Goals: create a easy to use environment that allows students to easily connect to other students, find out information about classes and other needs they may have.
 
-Usage: App now has more features and the basic UI for nearly all of the pages are up. Everything is linked to a standard data file with base values that I can edit. There is a Profile page, CLass page, Explore page, and a non functional messages page.
+Usage: data file has been updated and now uses riverpod, you must now enter a valid UH email to enter the app. As of right now it is functional with my email (zp6@hawaii.edu) and an example one (user1@hawaii.edu). UI and features are still pretty bare bones but the groundwork is set. Data is a little wrong here and there, but will be easy for me to edit in the future.
 
-![image](https://github.com/UH-Uni-Verse/UH-Uni-Verse.github.io/assets/143297380/63c617d8-a09b-4457-942a-76d52526d90b)
-![image](https://github.com/UH-Uni-Verse/UH-Uni-Verse.github.io/assets/143297380/38c6a084-1330-4d5c-8b1f-b2e1286b8616)
-![image](https://github.com/UH-Uni-Verse/UH-Uni-Verse.github.io/assets/143297380/e026c931-f8e2-4229-b922-a341a6c14c8f)
-![image](https://github.com/UH-Uni-Verse/UH-Uni-Verse.github.io/assets/143297380/01fdbdea-ae8b-460e-b0ae-16f63e3b48bd)
-![image](https://github.com/UH-Uni-Verse/UH-Uni-Verse.github.io/assets/143297380/b6b8ae43-871d-4c9b-b8df-1ed5fc124a1b)
+![image](https://github.com/UH-Uni-Verse/UH-Uni-Verse.github.io/assets/143297380/94b500c5-8d60-4159-a67b-afe9e6ca4a8c)
+![image](https://github.com/UH-Uni-Verse/UH-Uni-Verse.github.io/assets/143297380/9ec2eed3-33df-487b-999e-9368cd1d83d2)
+![image](https://github.com/UH-Uni-Verse/UH-Uni-Verse.github.io/assets/143297380/92c8575f-811e-4b59-b264-c0a4ed889082)
+![image](https://github.com/UH-Uni-Verse/UH-Uni-Verse.github.io/assets/143297380/6ee57f79-daab-4c68-af86-ab786c71c37a)
+![image](https://github.com/UH-Uni-Verse/UH-Uni-Verse.github.io/assets/143297380/4051bebd-aa43-40c8-b5b5-364ae136695d)
+
 
 
 Installation: 
