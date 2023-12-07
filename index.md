@@ -23,5 +23,7 @@ download and flutter run
 
 Development status: https://github.com/orgs/UH-Uni-Verse/projects/1
 
+Evaluation page: https://uh-uni-verse.github.io/evaluation
+
 About me: My name is Zach and I am the only team member on this project. I am a first year graduate student,  but this is my first year at UH Manoa. I am originally from Hawaii and I currently play volleyball for UH Manoa. I have my major in Game Design from the Univerisy of California Santa Cruz. 
 
