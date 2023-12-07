@@ -6,12 +6,15 @@ Goals: create a easy to use environment that allows students to easily connect t
 
 Usage: data file has been updated and now uses riverpod, you must now enter a valid UH email to enter the app. As of right now it is functional with my email (zp6@hawaii.edu) and an example one (user1@hawaii.edu). UI and features are still pretty bare bones but the groundwork is set. Data is a little wrong here and there, but will be easy for me to edit in the future.
 
-![image](https://github.com/UH-Uni-Verse/UH-Uni-Verse.github.io/assets/143297380/94b500c5-8d60-4159-a67b-afe9e6ca4a8c)
-![image](https://github.com/UH-Uni-Verse/UH-Uni-Verse.github.io/assets/143297380/9ec2eed3-33df-487b-999e-9368cd1d83d2)
-![image](https://github.com/UH-Uni-Verse/UH-Uni-Verse.github.io/assets/143297380/92c8575f-811e-4b59-b264-c0a4ed889082)
-![image](https://github.com/UH-Uni-Verse/UH-Uni-Verse.github.io/assets/143297380/6ee57f79-daab-4c68-af86-ab786c71c37a)
-![image](https://github.com/UH-Uni-Verse/UH-Uni-Verse.github.io/assets/143297380/4051bebd-aa43-40c8-b5b5-364ae136695d)
+![image](https://github.com/UH-Uni-Verse/UH-Uni-Verse.github.io/assets/143297380/caec9763-ef9a-4bb6-97e4-3613143dda09)
 
+![image](https://github.com/UH-Uni-Verse/UH-Uni-Verse.github.io/assets/143297380/37418ce7-75e7-4dcd-a66d-7282d5da35ab)
+
+![image](https://github.com/UH-Uni-Verse/UH-Uni-Verse.github.io/assets/143297380/4a345f37-4ca3-4b71-b0dd-cf6bfe3a7640)
+
+![image](https://github.com/UH-Uni-Verse/UH-Uni-Verse.github.io/assets/143297380/938d7acb-a448-401b-84a3-866bb485cd26)
+
+![image](https://github.com/UH-Uni-Verse/UH-Uni-Verse.github.io/assets/143297380/c035c600-74cf-429b-9842-5d17644ebdca)
 
 
 Installation: 
