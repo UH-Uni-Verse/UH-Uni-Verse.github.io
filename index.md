@@ -8,15 +8,19 @@ Future Goals: fully flesh out the app, enable the ability to buy items through t
 
 Usage: The current state of the app has a sample login (username: zp6@hawaii.edu, password: Universe) that can be used to access the app once opened. The features include the home page which shows a limited list of classes. You can click on the button to go to the class page of any class you are interested in. Each class page has basic information about the class, the professor and has a list of students in the class. The names of the students are clickable and will take you to their respective profile pages so you can contact them. There are also seperate tabs for your own profile page, the messaging page, and the marketplace tab. The messaging page and the marketplace tab in their current state are not fully functional but show the basic premise.
 
-![image](https://github.com/UH-Uni-Verse/UH-Uni-Verse.github.io/assets/143297380/caec9763-ef9a-4bb6-97e4-3613143dda09)
+![image](https://github.com/UH-Uni-Verse/UH-Uni-Verse.github.io/assets/143297380/dbc66489-fe95-4515-85a6-0acc3abfebd9)
 
-![image](https://github.com/UH-Uni-Verse/UH-Uni-Verse.github.io/assets/143297380/37418ce7-75e7-4dcd-a66d-7282d5da35ab)
+![image](https://github.com/UH-Uni-Verse/UH-Uni-Verse.github.io/assets/143297380/9761702e-f26b-49b4-94fd-9447cf461ace)
 
-![image](https://github.com/UH-Uni-Verse/UH-Uni-Verse.github.io/assets/143297380/4a345f37-4ca3-4b71-b0dd-cf6bfe3a7640)
+![image](https://github.com/UH-Uni-Verse/UH-Uni-Verse.github.io/assets/143297380/2fb86a91-a152-41cd-8f94-01900e40d14a)
 
-![image](https://github.com/UH-Uni-Verse/UH-Uni-Verse.github.io/assets/143297380/938d7acb-a448-401b-84a3-866bb485cd26)
+![image](https://github.com/UH-Uni-Verse/UH-Uni-Verse.github.io/assets/143297380/7571b180-f7e7-43d2-84bb-4c4b1d5bf672)
 
-![image](https://github.com/UH-Uni-Verse/UH-Uni-Verse.github.io/assets/143297380/c035c600-74cf-429b-9842-5d17644ebdca)
+![image](https://github.com/UH-Uni-Verse/UH-Uni-Verse.github.io/assets/143297380/3d4ed34a-54ed-40f4-a20c-8ea3f0b26209)
+
+![image](https://github.com/UH-Uni-Verse/UH-Uni-Verse.github.io/assets/143297380/c26fd746-91b1-43ae-a226-f2738071f1aa)
+
+![image](https://github.com/UH-Uni-Verse/UH-Uni-Verse.github.io/assets/143297380/70d80858-680d-4ebd-9485-87900321bea1)
 
 
 Installation: 
