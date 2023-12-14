@@ -2,9 +2,11 @@ UH-Uni-Verse
 
 Motivation: For this app I am trying to create a space where all UH students can connect. The main target would be new students who need help with deciding on classes, or learning things about life in Hawaii. I think that the University of Hawaii is one of the harder colleges to adapt to because it is very far for a lot of people and its disconnected from the mainland. I think this app would create a great place to help all these students.
 
-Goals: create a easy to use environment that allows students to easily connect to other students, find out information about classes and other needs they may have.
+Overall Goals: create a easy to use environment that allows students to easily connect to other students, find out information about classes and other needs they may have.
 
-Usage: data file has been updated and now uses riverpod, you must now enter a valid UH email to enter the app. As of right now it is functional with my email (zp6@hawaii.edu) and an example one (user1@hawaii.edu). UI and features are still pretty bare bones but the groundwork is set. Data is a little wrong here and there, but will be easy for me to edit in the future.
+Future Goals: fully flesh out the app, enable the ability to buy items through the app, and message students directly through the am.
+
+Usage: The current state of the app has a sample login (username: zp6@hawaii.edu, password: Universe) that can be used to access the app once opened. The features include the home page which shows a limited list of classes. You can click on the button to go to the class page of any class you are interested in. Each class page has basic information about the class, the professor and has a list of students in the class. The names of the students are clickable and will take you to their respective profile pages so you can contact them. There are also seperate tabs for your own profile page, the messaging page, and the marketplace tab. The messaging page and the marketplace tab in their current state are not fully functional but show the basic premise.
 
 ![image](https://github.com/UH-Uni-Verse/UH-Uni-Verse.github.io/assets/143297380/caec9763-ef9a-4bb6-97e4-3613143dda09)
 
